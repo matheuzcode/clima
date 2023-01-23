@@ -7,5 +7,5 @@ Projeto de um sistema de previsão do tempo desenvolvido no curso da B7Web utili
 
 ## Demonstração
 <div align="center">
-<img src="https://user-images.githubusercontent.com/98724767/214112801-00bf85a6-d02d-4952-9362-63101ae9a55c.png"/>
+<img src="https://user-images.githubusercontent.com/98724767/214143772-e5cc7b3f-8fe5-48f4-9c85-53fabb9fc233.png"/>
 </div>
